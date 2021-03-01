@@ -6,6 +6,8 @@
 
 Fork本项目，Secrets添加环境变量`USERNAME`和`PASSWORD`
 
+如需实现server酱推送，需要添加环境变量`PUSH_KEY`
+
 在Actions中运行
 
 不支持多用户，仅支持用户名+密码登录方式
